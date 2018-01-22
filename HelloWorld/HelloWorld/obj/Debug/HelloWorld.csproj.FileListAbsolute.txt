@@ -4,3 +4,6 @@ C:\Project\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Project\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Project\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Project\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Project\github\learnVS\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Project\github\learnVS\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Project\github\learnVS\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
