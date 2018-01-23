@@ -12,7 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changed line 2!");
-            Console.WriteLine("Line 3 Jenkins WORKS!!!");
+            Console.WriteLine("Line 3 has been updated!!!");
         }
     }
 }
