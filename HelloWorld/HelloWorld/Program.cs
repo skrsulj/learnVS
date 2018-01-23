@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changed line 2!");
             Console.WriteLine("Line 3 has been updated!!!");
+            Console.WriteLine("Added line 4.");
         }
     }
 }
